@@ -91,7 +91,7 @@ clients ──< wells         │
 │   ├── 01_schema_and_data.sql     ← Table creation + synthetic data
 │   └── 02_analysis_queries.sql    ← All 10 business question queries
 └── visuals/
-    └── dashboard_mockup.png       ← (Power BI / Tableau screenshots go here)
+    └── dashboard_mockup.png       ← (Power BI)
 ```
 
 ---
