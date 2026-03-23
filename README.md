@@ -48,16 +48,15 @@ clients ──< wells         │
 
 | # | Question | SQL Concepts |
 |---|----------|-------------|
-| 1 | Which equipment types have the highest failure rates? | GROUP BY, COUNT, ORDER BY |
-| 2 | What is the average job duration by service type and region? | JOIN, GROUP BY, AVG, ROUND |
-| 3 | Which clients generate the most revenue? | Multi-table JOIN, SUM, ORDER BY |
-| 4 | What is the mean time between failures (MTBF) per equipment type? | CTE, LAG(), DATEDIFF, AVG |
-| 5 | What is the monthly running total of revenue? | SUM() OVER (window function) |
-| 6 | Which technicians have the best performance metrics? | JOIN, GROUP BY, AVG rating |
-| 7 | What is equipment utilization rate by region? | CTE, subquery, CASE WHEN |
-| 8 | What is month-over-month revenue growth? | LAG() window function, ROUND |
-| 9 | What are the top failure reasons per equipment type? | RANK() OVER PARTITION BY |
-| 10 | How do completed jobs compare to quarterly targets? | CTE, CASE, GROUP BY quarter |
+| 1 | Which equipment types have the highest failure rates? 
+| 2 | What is the average job duration by service type and region? 
+| 3 | Which clients generate the most revenue? 
+| 4 | What is the mean time between failures (MTBF) per equipment type? 
+| 5 | What is the monthly running total of revenue?
+| 6 | Which technicians have the best performance metrics? 
+| 7 | What is equipment utilization rate by region? 
+| 8 | What is month-over-month revenue growth? 
+| 9 | What are the top failure reasons per equipment type? 
 
 ---
 
