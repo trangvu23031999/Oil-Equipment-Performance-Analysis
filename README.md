@@ -72,6 +72,16 @@ clients ──< wells         │
 - **High-Value Completions** James Okafor (Completion Tech) is a massive outlier in revenue generation ($184,500) and holds the highest average job rating (4.67). While his average job duration is the longest (22.33 days), the financial return on his specific completion jobs is exceptionally high compared to standard drilling roles.
 ---
 
+## Dashboards
+
+### Financial & Operational Performance
+![Financial & Operational Performance](visuals/Revenue_Operation_Overview.png)
+
+### Equipment Reliability & Maintenance
+![Equipment Reliability & Maintenance](visuals/Equipment_Reliability_Maintenance.png)
+
+---
+
 ## Tools Used
 
 | Tool | Purpose |
