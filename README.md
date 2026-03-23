@@ -1,5 +1,14 @@
 # Oilfield Services: Field Operations & Equipment Performance Analysis
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+
+## Let's Connect
+* **LinkedIn:** [Trang Vu](linkedin.com/in/trangvu23)
+* **Portfolio:** [Github - Oilfield Services](https://github.com/trangvu23031999/Oil-Equipment-Performance-Analysis)
+
+---
+
 ## Project Overview
 
 This project simulates a data analyst role at an oilfield services company (similar to Halliburton or Baker Hughes). The analysis focuses on **equipment reliability**, **field technician performance**, **service job efficiency**, and **revenue trends** across operating regions in Texas.
