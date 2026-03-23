@@ -46,8 +46,8 @@ clients ──< wells         │
 
 ## Business Questions Answered
 
-| # | Question | SQL Concepts |
-|---|----------|-------------|
+| # | Question |
+|---|----------|
 | 1 | Which equipment types have the highest failure rates? 
 | 2 | What is the average job duration by service type and region? 
 | 3 | Which clients generate the most revenue? 
